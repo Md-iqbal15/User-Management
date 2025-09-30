@@ -1,6 +1,8 @@
-# CurdOperation
+# UserCurdOperation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
+
+#Run Angular Application using this command:- ng serve or ng s #Run json-server using this command:- npm run server #User CURD operation(Add, Edit,Update,Delete) used Ngrx state Management(actions,reducer,effects,selectors)
 
 ## Development server
 
