@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "john",
+      "email": "john@gmail.com",
+      "jobrole": "Angular",
+      "id": "17"
+    },
+    {
+      "username": "smith",
+      "email": "smith@gmail.com",
+      "jobrole": "developer",
+      "id": "15"
+    },
+    {
+      "username": "scott",
+      "email": "scott@gmail.com",
+      "jobrole": "qa",
+      "id": "39"
+    },
+    {
+      "username": "rajesh",
+      "email": "rajesh@gmail.com",
+      "jobrole": "tech",
+      "id": "41"
+    },
+    {
+      "username": "sujit",
+      "email": "sujit@gmail.com",
+      "jobrole": "gd",
+      "id": "78"
+    },
+    {
+      "username": "johndoe",
+      "email": "johndoe@gmail.com",
+      "jobrole": "id",
+      "id": "23"
+    }
+  ]
+}
